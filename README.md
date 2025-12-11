@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pragati Gupta 👋</h1>
 
-<!--
-**pragati-0208/pragati-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- Learning **Machine Learning & Data Science**
+- Skilled in **Python, pandas, numpy, sklearn, EDA, Feature Engineering**
+- Interested in **Open Source & GSoC 2026**
+- Love working with **datasets and ML models**
+
+---
+
+### 🛠️ Skills
+**Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • EDA • Feature Engineering • HTML • CSS • Git**
+
+---
+
+### 📂 What I'm Working On
+- ML basics projects  
+- Data analysis & visualization  
+- Open-source preparation  
+
+---
+
+### 📈 GitHub Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-0208&show_icons=true" height="160" />
+</p>
+
+---
+
+⭐ *Growing every day as an ML and open-source developer.*
+
