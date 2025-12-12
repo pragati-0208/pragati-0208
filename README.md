@@ -24,10 +24,18 @@
 
 ---
 
-### 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-0208&show_icons=true" height="160" />
-</p>
+## 🧩 Open Source Contributions  
+- **INCF / csa** – Added Windows & Anaconda installation instructions to the project documentation  
+  **PR:** https://github.com/INCF/csa/pull/27  
+  **Impact:** Helps Windows users avoid “permission denied” installation errors  
+
+---
+
+## 📊 GitHub Snapshot  
+
+![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-0208&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-0208&layout=compact&theme=tokyonight)
 
 ---
 
