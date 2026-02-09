@@ -13,7 +13,7 @@
 ---
 
 ###  Skills
-**Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • EDA • Feature Engineering • HTML • CSS • Git**
+**Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • EDA • Feature Engineering • Linear Regression • HTML • CSS • Git**
 
 ---
 
