@@ -35,6 +35,11 @@ Implemented DP-SGD training on CIFAR-10 using PyTorch + Opacus. Measured the pri
 
 **GSSoC Contributor**
 
+**INCF / knowledge-space-agent**
+- Replaced `print()` calls with structured Python logging module · [PR #75](https://github.com/INCF/knowledge-space-agent/pull/75) · 4 comments received
+- Fixed AgentState dunder keys · [PR #84](https://github.com/INCF/knowledge-space-agent/pull/84) · merged
+- Added backend test suite and pytest configuration · PR #82
+
 **NeurodataWithoutBorders / nwbwidgets**
 - Fixed pandas FutureWarning in `infer_categorical_columns` · [PR #323](https://github.com/NeurodataWithoutBorders/nwbwidgets/pull/323)
 - Eliminated test warnings across the codebase
@@ -43,13 +48,6 @@ Implemented DP-SGD training on CIFAR-10 using PyTorch + Opacus. Measured the pri
 - Added Windows & Anaconda installation docs · [PR #27](https://github.com/INCF/csa/pull/27)
 - Made project accessible to Windows users
 
----
-
-## Currently Exploring
-- Privacy-preserving ML & federated learning
-- Building practical ML projects end to end
-- Contributing to open source
-
----
+  ---
 
 *Open to internships · ML roles · open source collaborations*
